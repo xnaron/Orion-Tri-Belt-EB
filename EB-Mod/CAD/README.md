@@ -3,4 +3,4 @@
 
 to make b side idler just mirror it on the slicer.
 
-![](/Images/rearidler.jpg)
+![](/Images/rearidler2040.jpg)
