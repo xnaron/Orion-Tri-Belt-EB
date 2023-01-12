@@ -1,1 +1,6 @@
+
+2040 is used as a support in the back for rear idler.  See pics.  
+
+to make b side idler just mirror it on the slicer.
+
 ![](/Images/rearidler.jpg)
