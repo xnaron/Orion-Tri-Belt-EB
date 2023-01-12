@@ -2,7 +2,7 @@
 
 This is a fork of the awesome orion.  I wanted the electronics on the bottom.  I haven't updated the files in this repo yet.  I will update here when I do.
 
-![](Images/Orion.JPG)
+![](Images/Orion-EB.jpg)
 
 A mod of the Voron Trident that replaces the 3 leadscrews with belts and modified Z-Drives from a 2.4.  This is in the very early stages of development and though a fully-functional printer has been built, some of the parts are not yet fully tested.  The existing printer is producing excellent prints, though many changes will be coming in the following months.
 
