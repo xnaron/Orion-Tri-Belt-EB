@@ -1,6 +1,6 @@
 # Orion Tri-Belt-EB
 
-This is a fork of the awesome orion.  I wanted the electronics on the bottom.  I haven't updated the files in this repo yet.  I will update here when I do.
+This is a fork of the awesome Orion bythorsthunder.  I wanted the electronics on the bottom.  I haven't updated the files in this repo yet.  I will update here when I do.
 
 ![](Images/Orion-EB.jpg)
 
